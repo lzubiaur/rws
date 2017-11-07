@@ -1,1 +1,1 @@
-Rakuten Web Service API test in Go - Work in progress
+Go client for Rakuten Web Service API - Work in progress
